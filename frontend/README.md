@@ -75,17 +75,6 @@ npm start
 
 ---
 
-## Deployment Instructions
-### Backend:
-- Deploy on [Render](https://render.com), [Railway](https://railway.app), or Heroku.
-- Make sure to set JWT_SECRET in environment variables.
-
-### Frontend:
-- Deploy on [Netlify](https://www.netlify.com) or [Vercel](https://vercel.com).
-- Update api.js baseURL with deployed backend API URL.
-
----
-
 ## Packages Used
 ### Backend:
 - express: Handles API routing
@@ -102,10 +91,6 @@ npm start
 
 ---
 
-## Figma Portfolio
-(https://www.figma.com/)
-
----
 
 ## Usage
 - Start backend server on port 5000
